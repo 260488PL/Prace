@@ -1,0 +1,3 @@
+C:/Users/student/CLionProjects/2AiSR6_2/cmake-build-debug/CMakeFiles/2AiSR6_2.dir
+C:/Users/student/CLionProjects/2AiSR6_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/CLionProjects/2AiSR6_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

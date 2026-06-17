@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.27)
+project(2AiSR6_stack)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(2AiSR6_stack main.cpp
+        Stack.hpp
+        Stack.cpp)
